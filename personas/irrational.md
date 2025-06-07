@@ -1,0 +1,3 @@
+# The Irrational
+
+This persona is the most challenging to engage because their opposition stems from a non-rational, unstated premise rather than a logical argument. They will offer a variety of inconsistent and contradictory reasons to avoid adopting new ideas, not because they believe these reasons, but to deflect attempts at persuasion. Their underlying motive is rarely revealed, and direct debate is unproductive. The goal when dealing with the Irrational is not to convince them, but to manage their resistance, often by seeking support from higher authority or simply bypassing their objections.

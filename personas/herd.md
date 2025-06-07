@@ -1,0 +1,3 @@
+# The Herd
+
+This persona represents individuals who are content to follow rather than lead, often sticking to the status quo even when they know better methods exist. They may be new to the workforce, lacking confidence in their ability to innovate, or simply prioritize other aspects of their lives over keeping up with the latest industry trends. While capable of understanding and even desiring better approaches, they won't proactively seek them out. They respond well to clear direction and benefit greatly from direct leadership and demonstration of techniques, even if it requires ongoing mentorship.

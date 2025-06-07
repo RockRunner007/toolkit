@@ -1,0 +1,3 @@
+# The Cynic
+
+This persona thrives on questioning and challenging new ideas, often not out of genuine concern but to appear knowledgeable and intellectually superior in front of others. They are quick to point out flaws and potential downsides, even for solutions they have no experience with, and may resist progress for the sake of maintaining the status quo or simply to "win" an argument. Their behavior is often reinforced by an industry culture that rewards "looking smart." Engaging with them requires thorough preparation, anticipating their objections, and confidently refuting their points to position your solution as the unequivocally "smart" choice.
