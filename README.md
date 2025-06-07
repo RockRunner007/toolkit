@@ -1,6 +1,6 @@
-# toolkit
+# A Software Engineer Toolkit
 
-Helper for Engineers
+This toolkit is designed for software engineers who care deeply about building effective, maintainable, and impactful solutions. It provides practical resources, such as persona-driven prompt templates, to help you communicate more effectively with AI tools and stakeholders. Whether you're advocating for best practices, navigating organizational dynamics, or seeking to improve your workflow, this toolkit offers guidance and examples tailored to real-world engineering challenges.
 
 ## Using Personas to Influence AI Prompts
 
@@ -18,7 +18,6 @@ To use a persona, specify its name and relevant traits in your prompt. For examp
 
 ```
 As a "boss" persona, create a scrum ticket that outlines the need for a new feature to improve team collaboration.
-
 ```
 
 You can also combine multiple persona attributes to achieve the desired tone and expertise in AI responses.
