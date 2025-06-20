@@ -2,9 +2,21 @@
 
 This toolkit is designed for software engineers who care deeply about building effective, maintainable, and impactful solutions. It provides practical resources, such as persona-driven prompt templates, to help you communicate more effectively with AI tools and stakeholders. Whether you're advocating for best practices, navigating organizational dynamics, or seeking to improve your workflow, this toolkit offers guidance and examples tailored to real-world engineering challenges.
 
+## Using frameworks for Effective Prompts
+
+To create effective prompts, consider using a structured framework that helps clarify your request. Here are some key principles and a recommended format:
+
+- Use a prompt framework to structure your request:
+  - **Task:** What should the AI do?
+  - **Context:** What background or details are relevant?
+  - **Examples:** Provide sample inputs and outputs if possible.
+  - **Persona:** Specify a role or perspective for the AI.
+  - **Format:** Indicate the desired output structure (e.g., list, table, paragraph).
+  - **Tone:** Set the style or mood (e.g., formal, friendly, concise).
+
 ## Using Personas to Influence AI Prompts
 
-This project includes a set of predefined personas located in the [`personas`](personas) directory. Each persona represents a common stakeholder or attitude you may encounter when proposing technical solutions. You can reference these personas by name to guide AI behavior or tailor responses. The available personas are:
+This toolkit includes ready-to-use personas in the [`personas`](personas) directory. Each persona models a typical stakeholder or attitude you might face when discussing technical solutions. Reference a persona by name in your prompt to shape AI responses.
 
 - **boss**: Focuses on management concerns like cost, timelines, and risk.
 - **burned**: Skeptical due to negative past experiences with similar solutions.
